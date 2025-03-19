@@ -1,0 +1,39 @@
+/index.php
+/login.php
+/logout.php
+/preparador.php  <==
+/dashboard.php 
+/config/
+├── database.php # Configuración de la base de datos
+/api/
+├── /preparador/
+│ ├── salidasApi.php # API para salidas del preparador <==
+/view/
+├── /preparador/
+│ ├── /salidas/ **CRUD**
+│ │ ├── pre_salidasJS.php  <== para JS
+│ │ ├── pre_salidasMD.php  <==  para los Modales
+│ │ ├── pre_salidasV.php  <==  para la vista
+│ ├── /5ultimas/
+│ │ ├── pre_5ultimasJS.php
+│ │ ├── pre_5ultimasMD.php
+│ │ ├── pre_5ultimasV.php
+│ ├── /5mejores/
+│ │ ├── pre_5mejoresJS.php
+│ │ ├── pre_5mejoresMD.php
+│ │ ├── pre_5mejoresV.php
+│ ├── /tips/
+│ │ ├── pre_tipsJS.php
+│ │ ├── pre_tipsMD.php
+│ │ ├── pre_tipsV.php
+/controllers/
+├── /preparador/
+│ ├── preparadorController.php 
+│ ├── pre_salidasController.php  <==
+│ ├── pre_5ultimasController.php
+│ ├── pre_5mejoresController.php
+│ ├── pre_tipsController.php
+/public/
+├── /css/ # Archivos CSS
+├── /js/ # Archivos JS
+├── /images/ # Imágenes y assets
