@@ -1,2 +1,0 @@
-<?php
-// salidasV.php

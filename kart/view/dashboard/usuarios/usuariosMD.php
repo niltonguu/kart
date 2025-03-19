@@ -1,2 +1,0 @@
-<?php
-// usuariosMD.php
