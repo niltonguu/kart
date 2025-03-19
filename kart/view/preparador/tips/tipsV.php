@@ -1,0 +1,2 @@
+<?php
+// tipsV.php

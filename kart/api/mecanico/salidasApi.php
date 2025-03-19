@@ -1,0 +1,2 @@
+<?php
+// salidasApi.php
