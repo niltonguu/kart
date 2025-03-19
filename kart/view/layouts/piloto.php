@@ -1,0 +1,2 @@
+<?php
+// piloto.php

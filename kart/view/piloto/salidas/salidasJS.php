@@ -1,0 +1,2 @@
+<?php
+// salidasJS.php

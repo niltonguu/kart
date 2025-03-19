@@ -1,0 +1,2 @@
+<?php
+// trazadosJS.php
