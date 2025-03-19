@@ -1,2 +1,0 @@
-<?php
-// datatableHelper.php

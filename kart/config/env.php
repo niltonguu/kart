@@ -1,2 +1,0 @@
-<?php
-// env.php
